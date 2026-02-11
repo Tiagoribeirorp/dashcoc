@@ -19,7 +19,7 @@ pd.set_option('display.max_colwidth', 100)
 
 # Configurar página
 st.set_page_config(
-    page_title="Dashboard de Campanhas - SICOOB COCRED",
+    page_title="Dashboard de Campanhas - SICOOB COCRED1",
     page_icon="📊",
     layout="wide",
     initial_sidebar_state="expanded"
